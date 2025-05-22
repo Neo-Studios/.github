@@ -1,12 +1,6 @@
 # 👋 Hi, welcome to **Neo Studios**
 
 
----
-
-## 📊 GitHub Stats
-
-![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?org=Neo-Studios&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?org=Neo-Studios&layout=compact&theme=radical)
 
 ---
 
