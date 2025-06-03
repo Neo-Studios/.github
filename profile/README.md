@@ -2,29 +2,53 @@
 
 
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Welcome+to+Neo+Studios;Code+in+Neon+Style!" alt="Typing SVG" />
+</p>
 
-## 🛠️ Languages & Tools
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-FF6600?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-3776AB?style=for-the-badge&logo=swift&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/NEO%20STUDIOS-181825?style=for-the-badge&logo=github&logoColor=FF00C8&labelColor=181825&color=00FFF7">
+</p>
 
 ---
 
-## 🌐 Connect with Us
+## 🛠️ <span style="color:#00FFF7;">Languages & Tools</span>
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/YourRedditUsername)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://EthanCoderPenguin2012.github.io/EthanBlog)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethan.h.patmore@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-181825?style=for-the-badge&logo=kotlin&logoColor=FF00C8" />
+  <img src="https://img.shields.io/badge/JavaScript-181825?style=for-the-badge&logo=javascript&logoColor=FFE600" />
+  <img src="https://img.shields.io/badge/CSS3-181825?style=for-the-badge&logo=css3&logoColor=00FFF7" />
+  <img src="https://img.shields.io/badge/HTML5-181825?style=for-the-badge&logo=html5&logoColor=FF00C8" />
+  <img src="https://img.shields.io/badge/Java-181825?style=for-the-badge&logo=java&logoColor=FFE600" />
+  <img src="https://img.shields.io/badge/Lua-181825?style=for-the-badge&logo=lua&logoColor=00FFF7" />
+  <img src="https://img.shields.io/badge/Python-181825?style=for-the-badge&logo=python&logoColor=FFE600" />
+  <img src="https://img.shields.io/badge/Swift-181825?style=for-the-badge&logo=swift&logoColor=FF00C8" />
+</p>
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_
+## 🌐 <span style="color:#FFE600;">Connect with Us</span>
+
+<p align="center">
+  <a href="https://www.reddit.com/user/YourRedditUsername">
+    <img src="https://img.shields.io/badge/Reddit-181825?style=for-the-badge&logo=reddit&logoColor=FFE600" alt="Reddit" />
+  </a>
+  <a href="https://EthanCoderPenguin2012.github.io/EthanBlog">
+    <img src="https://img.shields.io/badge/Website-181825?style=for-the-badge&logo=About.me&logoColor=00FFF7" alt="Website" />
+  </a>
+  <a href="mailto:ethan.h.patmore@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181825?style=for-the-badge&logo=gmail&logoColor=FF00C8" alt="Email" />
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFE600&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22" alt="Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF00C8&height=2&section=footer"/>
+</p>
