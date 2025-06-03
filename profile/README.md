@@ -1,9 +1,5 @@
-# 👋 Hi, welcome to **Neo Studios**
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Welcome+to+Neo+Studios;Code+in+Neon+Style!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Welcome+to+Neo+Studios;Code+in+Neon+Style!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +8,13 @@
 
 ---
 
-## 🛠️ <span style="color:#00FFF7;">Languages & Tools</span>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFF7,FF00C8,FFE600&height=120&section=header&text=CYBERPUNK%20DEV%20COLLECTIVE&fontSize=40&fontColor=181825" />
+</p>
+
+---
+
+## <span style="color:#FF00C8;">🛠️ Languages & Tools</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-181825?style=for-the-badge&logo=kotlin&logoColor=FF00C8" />
@@ -27,7 +29,7 @@
 
 ---
 
-## 🌐 <span style="color:#FFE600;">Connect with Us</span>
+## <span style="color:#00FFF7;">🌐 Connect with Us</span>
 
 <p align="center">
   <a href="https://www.reddit.com/user/YourRedditUsername">
@@ -50,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF00C8&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00C8,00FFF7,FFE600&height=80&section=footer"/>
 </p>
